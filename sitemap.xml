@@ -114,7 +114,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>http://example.com/friends/index.html</loc>
     
     <lastmod>2021-06-13</lastmod>
     
@@ -128,7 +128,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/friends/index.html</loc>
+    <loc>http://example.com/tags/index.html</loc>
     
     <lastmod>2021-06-13</lastmod>
     
@@ -136,13 +136,6 @@
   
   <url>
     <loc>http://example.com/List/galleries/index.html</loc>
-    
-    <lastmod>2021-06-13</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/List/tools/index.html</loc>
     
     <lastmod>2021-06-13</lastmod>
     
@@ -163,7 +156,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/List/galleries/%E5%8A%A8%E6%BC%AB%E4%BA%BA%E7%89%A9/index.html</loc>
+    <loc>http://example.com/List/tools/index.html</loc>
     
     <lastmod>2021-06-13</lastmod>
     
@@ -184,14 +177,14 @@
   </url>
   
   <url>
-    <loc>http://example.com/List/galleries/%E5%8A%A8%E6%BC%AB%E6%8F%92%E7%94%BB/index.html</loc>
+    <loc>http://example.com/List/galleries/%E5%8A%A8%E6%BC%AB%E4%BA%BA%E7%89%A9/index.html</loc>
     
     <lastmod>2021-06-13</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/List/galleries/%E5%9F%8E%E5%B8%82%E9%A3%8E%E5%85%89/index.html</loc>
+    <loc>http://example.com/List/galleries/%E5%8A%A8%E6%BC%AB%E6%8F%92%E7%94%BB/index.html</loc>
     
     <lastmod>2021-06-13</lastmod>
     
@@ -206,6 +199,13 @@
   
   <url>
     <loc>http://example.com/List/galleries/%E5%91%86%E8%90%8C%E7%8C%AB%E5%92%AA/index.html</loc>
+    
+    <lastmod>2021-06-13</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/List/galleries/%E5%9F%8E%E5%B8%82%E9%A3%8E%E5%85%89/index.html</loc>
     
     <lastmod>2021-06-13</lastmod>
     
