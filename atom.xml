@@ -3,11 +3,11 @@
   <title>喜欢2B小姐姐的2B青年</title>
   
   <subtitle>喜欢2B小姐姐的2B青年の博客</subtitle>
-  <link href="https://gray97.github.io/atom.xml" rel="self"/>
+  <link href="https://gray97.gitee.io/atom.xml" rel="self"/>
   
-  <link href="https://gray97.github.io/"/>
+  <link href="https://gray97.gitee.io/"/>
   <updated>2022-12-12T01:20:02.940Z</updated>
-  <id>https://gray97.github.io/</id>
+  <id>https://gray97.gitee.io/</id>
   
   <author>
     <name>喜欢2B小姐姐的2B青年</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://gray97.github.io/article/undefined/"/>
-    <id>https://gray97.github.io/article/undefined/</id>
+    <link href="https://gray97.gitee.io/article/undefined/"/>
+    <id>https://gray97.gitee.io/article/undefined/</id>
     <published>2022-12-13T02:11:38.062Z</published>
     <updated>2022-12-12T01:20:02.940Z</updated>
     
@@ -38,8 +38,8 @@
   
   <entry>
     <title>Hexo主题LiveForCode介绍</title>
-    <link href="https://gray97.github.io/article/1112885395/"/>
-    <id>https://gray97.github.io/article/1112885395/</id>
+    <link href="https://gray97.gitee.io/article/1112885395/"/>
+    <id>https://gray97.gitee.io/article/1112885395/</id>
     <published>2020-07-31T16:00:00.000Z</published>
     <updated>2022-07-19T08:55:41.000Z</updated>
     
@@ -50,17 +50,17 @@
     
     
     
-    <category term="Web" scheme="https://gray97.github.io/category/Web/"/>
+    <category term="Web" scheme="https://gray97.gitee.io/category/Web/"/>
     
     
-    <category term="Hexo" scheme="https://gray97.github.io/tag/Hexo/"/>
+    <category term="Hexo" scheme="https://gray97.gitee.io/tag/Hexo/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://gray97.github.io/article/undefined/"/>
-    <id>https://gray97.github.io/article/undefined/</id>
+    <link href="https://gray97.gitee.io/article/undefined/"/>
+    <id>https://gray97.gitee.io/article/undefined/</id>
     <published>2019-12-31T16:00:00.000Z</published>
     <updated>2022-07-19T08:55:41.000Z</updated>
     
@@ -71,10 +71,10 @@
     
     
     
-    <category term="Web" scheme="https://gray97.github.io/category/Web/"/>
+    <category term="Web" scheme="https://gray97.gitee.io/category/Web/"/>
     
     
-    <category term="Hexo" scheme="https://gray97.github.io/tag/Hexo/"/>
+    <category term="Hexo" scheme="https://gray97.gitee.io/tag/Hexo/"/>
     
   </entry>
   
